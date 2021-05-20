@@ -32,3 +32,4 @@ public class usuario {
     public void setPassword(String password){
         this.password = password;
     }
+}
